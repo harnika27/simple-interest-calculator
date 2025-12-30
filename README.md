@@ -1,2 +1,2 @@
 # simple-interest-calculator
-simple interest calculator using bash
+This simple  calculates simple interest using a bash shell script
